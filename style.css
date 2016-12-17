@@ -1,0 +1,122 @@
+#banner {
+    width:100%;
+}
+
+#purify {
+     color:black;
+}
+
+#animalcruelty {
+    color:black;
+}
+
+body { 
+    background-color:lightblue;
+}
+
+.nav {
+    color: black;
+    margin:auto;
+}
+    
+#nav1 {
+    margin: auto;
+    width: 50%;
+    border: 3px dashed green;
+    padding: 10px;
+    text-align: center;
+}
+
+#animalcrueltypic {
+     height: 250px;
+     width: 500px;
+}
+
+#diseasepic{
+    height: 250px;
+    width: 500px;  
+    
+}
+
+#gunviolencepic{
+    height: 250px;
+    width: 500px;
+}
+
+#hungerpic{
+    height: 250px;
+     width: 500px;
+}
+
+#pollutionpic{
+    height: 250px;
+    width: 500px;
+}
+
+img.desaturate{
+    filter:grayscale(100%);
+    border-radius:110px;
+    border-style:ridge;
+    border-width: 15px;
+    border-bottom-color: #000090;
+}
+
+.titles{
+        font-size: 45px;
+        font-family: sans-serif;
+}
+
+.paragraph{
+    font-size:25px;
+    font-family: sans-serif;
+}
+
+li {
+      display: inline;
+      padding: 0px 10px 0px 10px;
+}
+    
+    
+#disease {
+    color:black;
+}
+
+
+#problems {
+    display:none;
+    
+}
+     
+#alltasks{
+   text-align:center; 
+}
+
+button {
+    font-size: 20px;
+    padding: 10px 24px;
+    border-radius: 4px;
+    background-color: white;
+    color: black;
+    border: 2px solid blue;
+    display:inline-block;
+}
+
+button:hover{
+     background-color: blue;
+     color: white;
+     -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+a {
+    text-decoration:none;
+}
+
+#links1{
+    font-size:28px;
+}
+.links{
+    font-size: 28;
+    font-style: italic;
+}

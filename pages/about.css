@@ -1,0 +1,26 @@
+#nav1 {
+    margin: auto;
+    width: 50%;
+    border: 3px dashed green;
+    padding: 10px;
+    text-align: center;
+}
+button {
+    font-size: 20px;
+    padding: 10px 24px;
+    border-radius: 4px;
+    background-color: white;
+    color: black;
+    border: 2px solid blue;
+    display:inline-block;
+}
+button:hover{
+     background-color: blue;
+     color: white;
+     -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+     box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+     
+#sites {
+    font-size:20px;
+}
